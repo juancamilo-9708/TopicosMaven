@@ -18,7 +18,7 @@ public class Ing_sw_2019 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Cola c = new Cola();
+        Cola c = new Col
 //        int m;        
 //        Scanner L=new Scanner(System.in);
 //        System.out.println("TOPICOS JENKINS ");
